@@ -28,8 +28,8 @@ void setup() {
   display.clearDisplay();
   display.setTextColor(SSD1306_WHITE);
   display.setTextSize(1);
-  display.setCursor(0, 0);
 
+  display.setCursor(0, 0);
   display.println("DUCKSTATION");
   display.println("------------");
   display.println("SYSTEM ONLINE");
