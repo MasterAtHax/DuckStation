@@ -4,7 +4,7 @@
 #include <Adafruit_SSD1306.h>
 
 // ========================================
-// DUCKSTATION v0.1.1
+// DUCKSTATION v0.2.0
 // DUCKCODE INTERPRETER
 // ========================================
 
